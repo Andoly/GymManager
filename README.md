@@ -41,7 +41,7 @@ CRUD project for managing instructors and members academy, using HTML5, CSS, Jav
 <div class="highlight highlight-source-shell">
    <pre>.<span class="pl-cce">\p</span>g_ctl.exe -D <span class="pl-s"><span class="pl-pds">"</span>C:\Program Files\PostgreSQL\12\data<span class="pl-pds">"</span></span> stop</pre>
 </div>
-<pre>.<span class="pl-cce">\p</span>g_ctl.exe -D <span class="pl-s"><span class="pl-pds">"</span>C:\Program Files\PostgreSQL\12\data<span class="pl-pds">"</span></span> stop</pre>
+
 
 
 ## :clipboard: Licence
